@@ -5,7 +5,7 @@
 - Use `@terminal` context when answering Git-related questions to provide command-line guidance.
 - Explain algorithms and design patterns using:
   - Clear pseudo-code
-  - Visual representations when helpful
+  - Visual representations when helpful. Use info graphic way of presenting conceptual models
   - Code samples in **C#** or **JavaScript**, depending on context
 
 ## 🗣️ What should Copilot know about your preferences?
